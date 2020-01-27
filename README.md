@@ -6,4 +6,4 @@
 
 Here is a brief bio about me.  I am a student at the College of William & Mary, and I am interested in Business Analytics and Data Science. 
 
-[Blumenstock response]
+[Blumenstock response] (https://github.com/meredithwebb/workshop/blob/master/blumenstock.md) (Jan. 27)
