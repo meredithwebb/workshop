@@ -4,6 +4,8 @@
 
 ### Meredith Webb
 
-Here is a brief bio about me.  I am a student at the College of William & Mary, and I am interested in Business Analytics and Data Science. 
+## Response to Readings
+1. [Blumenstock response](https://meredithwebb.github.io/workshop/blumenstock) (Jan. 27)
+## Projects
 
-[Blumenstock response](https://github.com/meredithwebb/workshop/blob/master/blumenstock.md) (Jan. 27)
+## Assignments
