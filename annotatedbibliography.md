@@ -1,5 +1,5 @@
-#Malaria in Africa
-##Problem Statement
+# Malaria in Africa
+## Problem Statement
 Malaria is an infectious disease spread by mosquito bites that is prevelant around the world, but most notably in sub-Sarahan Africa; half a billion cases and two million deaths are recorded every year, and out of those cases, half of them are children in sub-Saharan Africa.  With poor housing, inadequate health care, and the most effective malaria vector-- the mosquito Anopheles gambiae-- being most widespread in Africa, the disease has yet to be eliminated and continues to negatively effect African communities. 
  
 ### 1. Housing Improvements and Malaria Risk in Sub-Saharan Africa: A Multi-Country Analysis of Survey Data
