@@ -11,4 +11,4 @@
 ## Projects
 
 ## Assignments
-1. [Annotated Bibliography](https://meredithwebb.github.io/workshop/annotatedbibliography) (Feb 23)
+
