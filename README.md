@@ -10,7 +10,8 @@
 3. [Development and Complexity](https://meredithwebb.github.io/workshop/development_and_complexity) (Feb. 17)
 4. [Anderson and Kitchen](https://meredithwebb.github.io/workshop/anderson_kitchen) (Feb. 24)
 5. 
-6. [Nieves](https://meredithwebb.github.io/workshop/nieves.md) (March 30)
+6. [Nieves] (https://meredithwebb.github.io/workshop/nieves) (March 30)
+
 ## Projects
 
 ## Assignments
