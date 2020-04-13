@@ -16,3 +16,4 @@
 
 ## Assignments
 1. [Annotated Bibliography](https://meredithwebb.github.io/workshop/annotatedbibliography) (Feb. 24)
+2. [Literature Review](https://meredithwebb.github.io/workshop/literaturereview) 
